@@ -1,0 +1,7 @@
+{
+  "ytDlpPath": "yt-dlp",
+  "ffmpegPath": "ffmpeg",
+  "whisperCliPath": "<path-to-whisper-cli>",
+  "whisperModelPath": "<path-to-whisper-model>",
+  "defaultKeyframeIntervalSeconds": 10
+}

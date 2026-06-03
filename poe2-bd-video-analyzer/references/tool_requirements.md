@@ -4,6 +4,8 @@ This skill can work without the toolpack if the user provides transcript text, s
 
 Use the optional toolpack only when automatic preparation is needed.
 
+If this Skill is distributed through a repository that includes `appendix/poe2-bd-video-analyzer-toolpack/`, that appendix can be used as a lightweight helper package for public-video preparation.
+
 ## Minimum
 
 - User-provided transcript or notes

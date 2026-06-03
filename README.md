@@ -15,3 +15,12 @@ The Skill can work from text and screenshots alone. Automatic video download, tr
 - `poe2-bd-video-analyzer-share-v1.zip`
 
 The zip contains the same Skill folder for direct download or installation.
+
+## Appendix Toolpack
+
+- `appendix/poe2-bd-video-analyzer-toolpack/`
+- `poe2-bd-video-analyzer-toolpack-appendix-v1.zip`
+
+The appendix toolpack contains reusable scripts and setup notes for public-video download, audio extraction, rough transcription, and keyframe extraction.
+
+It does not include third-party binaries, model files, cookies, tokens, passwords, or paid/private-video access.
