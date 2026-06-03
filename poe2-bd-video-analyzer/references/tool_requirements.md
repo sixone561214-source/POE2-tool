@@ -2,9 +2,15 @@
 
 This skill can work without the toolpack if the user provides transcript text, screenshots, POB links, or author notes.
 
-Use the optional toolpack only when automatic preparation is needed.
+Use an optional toolpack only when automatic preparation is needed.
 
-If this Skill is distributed through a repository that includes `appendix/poe2-bd-video-analyzer-toolpack/`, that appendix can be used as a lightweight helper package for public-video preparation.
+This shared Skill does not include a ready-to-use toolpack.
+
+中文说明：
+
+工具包请自行使用 AI 根据本 Skill 要求生成。
+
+如果需要傻瓜式一键安装包，请联系作者抖音私信。
 
 ## Minimum
 

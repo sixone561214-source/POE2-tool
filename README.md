@@ -16,11 +16,10 @@ The Skill can work from text and screenshots alone. Automatic video download, tr
 
 The zip contains the same Skill folder for direct download or installation.
 
-## Appendix Toolpack
+## 工具包说明
 
-- `appendix/poe2-bd-video-analyzer-toolpack/`
-- `poe2-bd-video-analyzer-toolpack-appendix-v1.zip`
+本仓库不提供现成工具包。
 
-The appendix toolpack contains reusable scripts and setup notes for public-video download, audio extraction, rough transcription, and keyframe extraction.
+工具包请自行使用 AI 根据 Skill 要求生成。
 
-It does not include third-party binaries, model files, cookies, tokens, passwords, or paid/private-video access.
+如果需要傻瓜式一键安装包，请联系作者抖音私信。
